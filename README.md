@@ -137,6 +137,5 @@ Currently errors are surfaced as plain strings. A retry flow with better visual 
 
 ## Video Demo
 
-
-![WithAd](./demo/demo1.mp4)
-![NoAd](./demo/demo2.mp4)
+<video src="./demo/demo1.mp4" width="250" controls></video>
+<video src="./demo/demo2.mp4" width="250" controls></video>
