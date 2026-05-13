@@ -39,7 +39,7 @@ struct SplashView: View {
                                     .fill(AppColor.progressBackground)
                                     .frame(height: 5)
                                 Capsule()
-                                    .fill(AppGradient.loadingProgress)
+                                    .fill(AppColor.primaryLight)
                                     .frame(width: geo.size.width * viewModel.loadingProgress, height: 5)
                                     .animation(.easeInOut(duration: 0.3), value: viewModel.loadingProgress)
                             }
