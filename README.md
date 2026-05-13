@@ -137,5 +137,5 @@ Currently errors are surfaced as plain strings. A retry flow with better visual 
 
 ## Video Demo
 
-![With ads](demo/demo1.mp4)
-![Without ads](demo/demo2.mp4)
+https://github.com/DrewNguyen97/Filter-Camera/blob/main/demo/demo1.mp4
+https://github.com/DrewNguyen97/Filter-Camera/blob/main/demo/demo2.mp4
