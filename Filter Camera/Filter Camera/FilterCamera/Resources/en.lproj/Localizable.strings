@@ -1,0 +1,35 @@
+/* Splash Screen */
+"splash_loading" = "Loading...";
+
+/* Onboarding */
+"onboarding_next" = "Next";
+"onboarding_title_1" = "Clean, minimal, and chic style? See how you'd look";
+"onboarding_title_2" = "Accurate Predictions Filter!\n See your future life!";
+"onboarding_title_3" = "Share & Have Fun! Share them on TikTok, Instagram, and Snapchat";
+
+/* Paywall */
+"paywall_continue" = "Continue";
+"paywall_random_filter_premium" = "Random Filter Premium";
+"paywall_premium_benefits" = "Premium benefits";
+"paywall_free" = "Free";
+"paywall_premium" = "Premium";
+"paywall_best_offer" = "Best Offer";
+"paywall_privacy_policy" = "Privacy Policy";
+"paywall_restore" = "Restore";
+"paywall_terms" = "Term of Use";
+
+/* Camera */
+"camera_add_music" = "Add music";
+"camera_unlock_all" = "Unlock all features";
+"camera_filter" = "Filter";
+
+/* Result */
+"result_title" = "Result";
+"result_saved_to_photos" = "Saved to Photos!";
+"result_retry" = "Retry";
+"result_save" = "Save";
+"result_share" = "Share";
+
+/* Common */
+"common_error" = "Error";
+"common_ok" = "OK";

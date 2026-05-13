@@ -1,0 +1,25 @@
+[
+  {
+    "id": "filtercamera.premium.yearly",
+    "name": "Yearly",
+    "price": "$19.99",
+    "period": "/ year",
+    "subtext": "$0.38/week",
+    "isBestOffer": false
+  },
+  {
+    "id": "filtercamera.premium.weekly",
+    "name": "Weekly",
+    "price": "$3.99",
+    "period": "/ week",
+    "isBestOffer": true
+  },
+  {
+    "id": "filtercamera.premium.monthly",
+    "name": "Monthly",
+    "price": "$9.99",
+    "period": "/ month",
+    "subtext": "$1.49/week",
+    "isBestOffer": false
+  }
+]
